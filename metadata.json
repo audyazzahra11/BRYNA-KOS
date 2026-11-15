@@ -1,0 +1,8 @@
+{
+  "name": "Bryna Kos",
+  "description": "Website informasi resmi Bryna Kos, hunian mahasiswa nyaman dan strategis di Purwokerto, Jawa Tengah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
